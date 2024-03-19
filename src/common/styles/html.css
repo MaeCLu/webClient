@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI Variable", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Helvetica, Arial,
+    sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  color: var(--ggl-text-color);
+  background-color: var(--ggl-body-bg);
+  line-height: 1.5rem;
+}
+
+html,
+head,
+body,
+#root,
+figure {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#__next {
+  height: 100%;
+}

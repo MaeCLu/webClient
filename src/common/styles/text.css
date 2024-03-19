@@ -1,0 +1,17 @@
+.configOptionTitle
+{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.configOptionSubtext
+{
+  font-size: 14px;
+  font-weight: 400;
+}
+
+/* this is for the table in process-specific telemetry control */
+td
+{
+  border-bottom: 1px #EFEFEF solid;
+}
